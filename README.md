@@ -14,6 +14,7 @@ via some sidechannel usually attributed to TEMPEST.
 
 Please see this presentation for a very good description of various 
 soft tempest topics:
+
 https://i.blackhat.com/us-18/Wed-August-8/us-18-Guri-AirGap.pdf
 
 
@@ -27,14 +28,18 @@ experiment with this concept.
 ---------------------------------------------------------------------
 Etherify:
 Send data by changing the electromagnetic spectrum emanated from ethernet
-interfaces. This is not part of this repository, please see:
+interfaces. Please see:
+
 https://lipkowski.com/etherify
+
 https://github.com/sq5bpf/etherify
 
 ----------------------------------------------------------------------
 Sonify:
 Send data by morse code at ultrasound. Please see:
+
 https://lipkowski.com/sonify
+
 https://github.com/sq5bpf/sonify
 
 ----------------------------------------------------------------------
