@@ -1,0 +1,6 @@
+[submodule "etherify"]
+	path = etherify
+	url = https://github.com/sq5bpf/etherify.git
+[submodule "sonify"]
+	path = sonify
+	url = https://github.com/sq5bpf/sonify.git
